@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium made easy suite">
+<test name="Different activities on seleniummadeeasy/test.com">
+<classes>
+<class name="com.selenium.qa.testcases.AjaxFormSubmitTest"/>
+<class name="com.selenium.qa.testcases.CheckBoxDemoTest"/>
+<class name="com.selenium.qa.testcases.DragandDropTest"/>
+<class name ="com.selenium.qa.testcases.HomePageTest"/>
+<class name ="com.selenium.qa.testcases.InputFormValidationsTest"/>
+<class name ="com.selenium.qa.testcases.JavaScriptAlertsTest"/>
+<class name ="com.selenium.qa.testcases.JqueryListDropdownTest"/>
+<class name ="com.selenium.qa.testcases.SelectDropDownListTest"/>
+<class name ="com.selenium.qa.testcases.SimpleFormDemoTest"/>
+<class name ="com.selenium.qa.testcases.TableSortAndSearchTest"/>
+<class name ="com.selenium.qa.testcases.WindowPopupModelTest"/>
+</classes>
+</test>
+</suite>

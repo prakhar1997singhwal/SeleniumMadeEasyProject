@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Selenium made easy suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Different activities on seleniummadeeasy/test.com(failed)">
+    <classes>
+      <class name="com.selenium.qa.testcases.HomePageTest">
+        <methods>
+          <include name="clickondrag_and_drop_linklink"/>
+          <include name="clickoninputformwithvalidationslink"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.selenium.qa.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Different activities on seleniummadeeasy/test.com(failed) -->
+</suite> <!-- Failed suite [Selenium made easy suite] -->
